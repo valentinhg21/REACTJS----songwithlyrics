@@ -2,8 +2,7 @@
 
 This is a project where you can search song with lyrics and singer's bibliography.
 
-I used the API from https://api.lyrics.ovh (song with lyrics).
-I used the API from https://www.theaudiodb.com/ (singer's bibliography).
+I used the API from https://api.lyrics.ovh for the song with lyrics and I used a second API for singer's bibliography https://www.theaudiodb.com/.
 
 Preview https://songswithlryics.netlify.app
 
