@@ -1,3 +1,12 @@
+## Description
+
+This is a project where you can search song with lyrics and singer's bibliography.
+
+I used the API from https://api.lyrics.ovh (song with lyrics)
+I used the API from https://www.theaudiodb.com/ (singer's bibliography)
+
+Preview https://songswithlryics.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
