@@ -1,10 +1,10 @@
 ## Description
 
-This is a project where you can search song with lyrics and singer's bibliography.
+En este proyecto puedes encontrar la letra de la canción y la bibliografia de la banda, ingresando el nombre de la canción y de la banda.
 
-I used the API from https://api.lyrics.ovh for the song with lyrics and I used a second API for singer's bibliography https://www.theaudiodb.com/.
+API usada: https://api.lyrics.ovh for the song with lyrics and I used a second API for singer's bibliography https://www.theaudiodb.com/.
 
-Preview https://songswithlryics.netlify.app
+Visualización https://songswithlryics.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
